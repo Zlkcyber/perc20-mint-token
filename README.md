@@ -13,7 +13,7 @@ git clone https://github.com/Zlkcyber/perc20-mint-token.git
 ```
 
 ```
-cd swisstronik-perc20-mint-token
+cd perc20-mint-token
 ```
 
 ### 2. Install Dependency
